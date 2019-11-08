@@ -1,0 +1,15 @@
+current directory: /Users/takayukitakahashi/workspace/ajax_samle/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/takayukitakahashi/.rbenv/versions/2.6.3/bin/ruby -I /Users/takayukitakahashi/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20191108-25118-16qi9cf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takayukitakahashi/workspace/ajax_samle/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/takayukitakahashi/workspace/ajax_samle/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/takayukitakahashi/workspace/ajax_samle/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20191108-25118-1i4ybqe
